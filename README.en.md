@@ -22,6 +22,26 @@ XXD Panel 034 is an image-generation Skill for Codex and compatible agents. It r
 
 Two to four source-derived spot inks, uneven carved lines, broken ink, paper show-through, chipped edges, pressure variation, slight misregistration, warm fibrous paper, generous whitespace, and small typewriter annotation make the result feel like a traveller's collected field record rather than a souvenir.
 
+## Samples · From X
+
+> [Xiaoxiaodong (@xiaoxiaodong01)](https://x.com/xiaoxiaodong01/status/2090719303784104086) · 2026-08-21<br>
+> GPT2 x 断墨 x 印章 x 油墨 x 美学提示词 x VOL.034
+
+<table>
+  <tr>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090719303784104086"><img src="./assets/examples/sample-01.jpg" alt="XXD Panel 034 sample 1"></a></td>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090719303784104086"><img src="./assets/examples/sample-02.jpg" alt="XXD Panel 034 sample 2"></a></td>
+  </tr>
+  <tr>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090719303784104086"><img src="./assets/examples/sample-03.jpg" alt="XXD Panel 034 sample 3"></a></td>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090719303784104086"><img src="./assets/examples/sample-04.jpg" alt="XXD Panel 034 sample 4"></a></td>
+  </tr>
+</table>
+
+<p align="center"><a href="https://x.com/xiaoxiaodong01/status/2090719303784104086">View the original post and full prompt →</a></p>
+
+These samples demonstrate the 034 aesthetic motive. Their subjects, composition, palette, copy, and earlier canvas ratio never become generation references or current defaults.
+
 ## Why it exists
 
 “Travel stamp” easily collapses into a round souvenir badge, postage template, passport mark, sticker set, or fixed nostalgic palette.
@@ -43,26 +63,6 @@ If an unrelated photograph could replace the source without materially changing 
 - **Physical impression:** broken ink, paper show-through, grain, chipped edges, pressure variation, and irregular carving follow real print structure.
 - **Free but grounded placement:** source direction and visual weight decide off-centre, near-edge, or earned partial-crop positioning.
 - **Field annotation:** small native typewriter or archival microtype aligns with the stamp edge, baseline, contour, or whitespace.
-
-## Samples · From X
-
-> [Xiaoxiaodong (@xiaoxiaodong01)](https://x.com/xiaoxiaodong01/status/2090719303784104086) · 2026-08-21<br>
-> GPT2 x 断墨 x 印章 x 油墨 x 美学提示词 x VOL.034
-
-<table>
-  <tr>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090719303784104086"><img src="./assets/examples/sample-01.jpg" alt="XXD Panel 034 sample 1"></a></td>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090719303784104086"><img src="./assets/examples/sample-02.jpg" alt="XXD Panel 034 sample 2"></a></td>
-  </tr>
-  <tr>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090719303784104086"><img src="./assets/examples/sample-03.jpg" alt="XXD Panel 034 sample 3"></a></td>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090719303784104086"><img src="./assets/examples/sample-04.jpg" alt="XXD Panel 034 sample 4"></a></td>
-  </tr>
-</table>
-
-<p align="center"><a href="https://x.com/xiaoxiaodong01/status/2090719303784104086">View the original post and full prompt →</a></p>
-
-These samples demonstrate the 034 aesthetic motive. Their subjects, composition, palette, copy, and earlier canvas ratio never become generation references or current defaults.
 
 ## The original brief is authoritative
 

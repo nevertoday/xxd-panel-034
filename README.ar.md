@@ -24,6 +24,26 @@ XXD Panel 034 مهارة لتوليد الصور مخصّصة لـ Codex وال�
 
 تمنحه ألوان موضعية من المصدر وعددها من اثنين إلى أربعة، وخطوط حفر غير متساوية، وحبر منقطع، وورق ظاهر، وحواف ناقصة، وتفاوت الضغط، وانزياح طفيف، وورق ليفي دافئ، وفراغ واسع، ونص صغير كُتب بالآلة طابع سجل رحّالة لا تذكاراً سياحياً.
 
+## النماذج · من X
+
+> [Xiaoxiaodong (@xiaoxiaodong01)](https://x.com/xiaoxiaodong01/status/2090719303784104086) · 2026-08-21<br>
+> GPT2 x 断墨 x 印章 x 油墨 x 美学提示词 x VOL.034
+
+<table>
+  <tr>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090719303784104086"><img src="./assets/examples/sample-01.jpg" alt="XXD Panel 034 نموذج 1"></a></td>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090719303784104086"><img src="./assets/examples/sample-02.jpg" alt="XXD Panel 034 نموذج 2"></a></td>
+  </tr>
+  <tr>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090719303784104086"><img src="./assets/examples/sample-03.jpg" alt="XXD Panel 034 نموذج 3"></a></td>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090719303784104086"><img src="./assets/examples/sample-04.jpg" alt="XXD Panel 034 نموذج 4"></a></td>
+  </tr>
+</table>
+
+<p align="center"><a href="https://x.com/xiaoxiaodong01/status/2090719303784104086">عرض المنشور الأصلي والتوجيه كاملاً ←</a></p>
+
+تعرض هذه النماذج الدافع الجمالي للإصدار 034 فقط؛ ولا تصبح موضوعاتها أو تكوينها أو ألوانها أو نصوصها أو نسبة اللوحة السابقة مراجع للتوليد أو إعدادات افتراضية حالية.
+
 ## لماذا توجد 034؟
 
 ينحدر «ختم السفر» بسهولة إلى شارة دائرية تذكارية أو قالب طابع بريدي أو ختم جواز أو مجموعة ملصقات أو لوحة ألوان حنينية ثابتة.
@@ -45,26 +65,6 @@ XXD Panel 034 مهارة لتوليد الصور مخصّصة لـ Codex وال�
 - **طبعة مادية:** يتبع الحبر المنقطع وظهور الورق والحبيبات والنقص وتفاوت الضغط والحفر غير المتساوي بنية الطباعة.
 - **موضع حر لكنه مدعوم:** يحدد اتجاه المصدر وثقله الإزاحة نحو الطرف أو الاقتطاع الضروري.
 - **ملاحظة ميدانية:** تصطف كتابة صغيرة أصيلة للغة المستهدفة مع حافة الختم أو خطه الأساس أو محيطه أو فراغه.
-
-## النماذج · من X
-
-> [Xiaoxiaodong (@xiaoxiaodong01)](https://x.com/xiaoxiaodong01/status/2090719303784104086) · 2026-08-21<br>
-> GPT2 x 断墨 x 印章 x 油墨 x 美学提示词 x VOL.034
-
-<table>
-  <tr>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090719303784104086"><img src="./assets/examples/sample-01.jpg" alt="XXD Panel 034 نموذج 1"></a></td>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090719303784104086"><img src="./assets/examples/sample-02.jpg" alt="XXD Panel 034 نموذج 2"></a></td>
-  </tr>
-  <tr>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090719303784104086"><img src="./assets/examples/sample-03.jpg" alt="XXD Panel 034 نموذج 3"></a></td>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090719303784104086"><img src="./assets/examples/sample-04.jpg" alt="XXD Panel 034 نموذج 4"></a></td>
-  </tr>
-</table>
-
-<p align="center"><a href="https://x.com/xiaoxiaodong01/status/2090719303784104086">عرض المنشور الأصلي والتوجيه كاملاً ←</a></p>
-
-تعرض هذه النماذج الدافع الجمالي للإصدار 034 فقط؛ ولا تصبح موضوعاتها أو تكوينها أو ألوانها أو نصوصها أو نسبة اللوحة السابقة مراجع للتوليد أو إعدادات افتراضية حالية.
 
 ## الموجّه الأصلي هو المرجع الجمالي الوحيد
 

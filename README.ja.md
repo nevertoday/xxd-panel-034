@@ -22,6 +22,26 @@ XXD Panel 034 は、Codex と互換 Agent のための画像生成 Skill です�
 
 元写真から選ぶ2〜4色の特色、不均一な彫り線、かすれ、紙の露出、欠け、圧の変化、ごく小さな版ずれ、温かな繊維紙、大きな余白、小型タイプライター注記によって、観光土産ではなく旅人の収集記録になります。
 
+## 作例 · X より
+
+> [小小東（@xiaoxiaodong01）](https://x.com/xiaoxiaodong01/status/2090719303784104086) · 2026-08-21<br>
+> GPT2 x 断墨 x 印章 x 油墨 x 美学提示词 x VOL.034
+
+<table>
+  <tr>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090719303784104086"><img src="./assets/examples/sample-01.jpg" alt="XXD Panel 034 作例 1"></a></td>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090719303784104086"><img src="./assets/examples/sample-02.jpg" alt="XXD Panel 034 作例 2"></a></td>
+  </tr>
+  <tr>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090719303784104086"><img src="./assets/examples/sample-03.jpg" alt="XXD Panel 034 作例 3"></a></td>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090719303784104086"><img src="./assets/examples/sample-04.jpg" alt="XXD Panel 034 作例 4"></a></td>
+  </tr>
+</table>
+
+<p align="center"><a href="https://x.com/xiaoxiaodong01/status/2090719303784104086">元の投稿と完全なプロンプトを見る →</a></p>
+
+これらの作例は 034 の美的意図を示すものであり、作例の被写体、構図、配色、コピー、旧キャンバス比率が生成時の参照や現在の既定値になることはありません。
+
 ## なぜ 034 が必要なのか
 
 一般的な「旅のスタンプ」は、丸い記念章、切手テンプレート、パスポート印、ステッカーセット、固定された懐古色へ崩れがちです。
@@ -43,26 +63,6 @@ XXD Panel 034 は、Codex と互換 Agent のための画像生成 Skill です�
 - **物理的な押印：** かすれ、紙露出、粒子、欠け、圧変化、不均一な彫り線が印刷構造に沿います。
 - **自由だが根拠ある配置：** 元写真の方向と重心が偏心、端寄せ、必要な裁ち落としを決めます。
 - **フィールド注記：** 小型の対象言語タイプライター体や記録用微細文字を縁、基線、輪郭、余白に合わせます。
-
-## 作例 · X より
-
-> [小小東（@xiaoxiaodong01）](https://x.com/xiaoxiaodong01/status/2090719303784104086) · 2026-08-21<br>
-> GPT2 x 断墨 x 印章 x 油墨 x 美学提示词 x VOL.034
-
-<table>
-  <tr>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090719303784104086"><img src="./assets/examples/sample-01.jpg" alt="XXD Panel 034 作例 1"></a></td>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090719303784104086"><img src="./assets/examples/sample-02.jpg" alt="XXD Panel 034 作例 2"></a></td>
-  </tr>
-  <tr>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090719303784104086"><img src="./assets/examples/sample-03.jpg" alt="XXD Panel 034 作例 3"></a></td>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090719303784104086"><img src="./assets/examples/sample-04.jpg" alt="XXD Panel 034 作例 4"></a></td>
-  </tr>
-</table>
-
-<p align="center"><a href="https://x.com/xiaoxiaodong01/status/2090719303784104086">元の投稿と完全なプロンプトを見る →</a></p>
-
-これらの作例は 034 の美的意図を示すものであり、作例の被写体、構図、配色、コピー、旧キャンバス比率が生成時の参照や現在の既定値になることはありません。
 
 ## 原文プロンプトを唯一の美的基準にする
 
