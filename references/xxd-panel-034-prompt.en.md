@@ -1,5 +1,13 @@
 # XXD Panel 034 | Multicolour Rubber-Stamp Field-Note Production Prompt
 
+## Runtime complete-canvas contract — highest priority
+
+- `TOP_BOTTOM` and `LEFT_RIGHT` default to one complete finished generation using the current source as a high-fidelity edit/reference input. Do not pre-split the job into photographic and design halves.
+- Top-bottom keeps the faithful source in approximately the upper 50% and performs this style transformation below; left-right uses the faithful source in approximately the left 50% and the transformation on the right. Unify both regions through colour, light, rhythm, typography, and meaning.
+- `DESIGN_ONLY` and `WALLPAPER_PACK` use the complete canvas while the source remains an invisible identity/content reference. Recompose every wallpaper separately for its device.
+- `FINAL CANVAS` means the ratio/pixels of the whole finished artwork and must be explicitly resolved before generation; never apply source dimensions silently. `DESIGN FRAME` is used only if a failed complete-canvas retry triggers deterministic composition fallback.
+- Retry a failed complete canvas once against the failed constraint only. Scripted composition is allowed only after that retry still fails, when pixel-identical source preservation is explicitly required, when the active route cannot realise the canvas, or for lossless pixel calibration.
+
 Process only the one source photograph explicitly supplied for this task. Lock the principal subject or inseparable relation, contour, proportion, pose, direction, spatial distance, opening, overlap, narrative feature, and colour character. Preserve at least three source-specific cues. Never borrow stamp motifs, ink sets, annotations, placement, or texture from old outputs or another input.
 
 ## One small recognisable hand-carved stamp
@@ -22,7 +30,6 @@ Use small typewriter or archival microtype aligned with a stamp edge, baseline, 
 
 ## Mode and acceptance
 
-Obey the appended `OUTPUT MODE`, `FINAL SIZE`, and `DESIGN FRAME`. Paired modes generate only the design half; design-only and wallpapers show no source photograph. Recompose every wallpaper for its device, never crop another device result, and render no system UI or mockup. A linked pack always references the original photo plus the same approved anchor and never chains derivatives.
 
 Hard gate: at least three source cues; one small recognisable rubber-stamp motif; large warm fibrous-paper field; two to four source-derived spot inks with structural roles; uneven hand carving and believable broken impression; slight controlled misregistration; quiet grounded field annotation; exact user wording; no invented metadata; no souvenir, postage, passport, round seal, badge, sticker, cartoon, smooth vector, dirty filter, many-stamp collage, mockup, or pseudo-text.
 
