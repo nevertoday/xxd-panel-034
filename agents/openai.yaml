@@ -1,4 +1,4 @@
 interface:
   display_name: "/xxd-panel-034"
-  short_description: "Create multicolour rubber-stamp field-note artwork."
-  default_prompt: "Use $xxd-panel-034 to reduce my photograph into one small recognisable hand-carved rubber stamp with two to four source-derived spot inks, broken impression, slight misregistration, warm fibrous paper, generous whitespace, and quiet native-language field annotation; ask first for modes and copy or locale preferences."
+  short_description: "Create Panel 034 from its original style brief."
+  default_prompt: "Use $xxd-panel-034; treat its bundled original style brief as the sole aesthetic authority, and ask only for unresolved mode, size, text mode, locale, or wallpaper settings."

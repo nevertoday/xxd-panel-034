@@ -1,44 +1,79 @@
-# XXD Panel 034 | Multicolour Rubber-Stamp Field-Note Production Prompt
+# XXD Panel 034 | Runtime Adapter (English)
 
-## Runtime complete-canvas contract — highest priority
+This is not a second aesthetic prompt. Read and use `references/034-source.md` in full and verbatim before generation; it is the sole creative and aesthetic authority for Panel 034. This file only appends the current user's runtime variables.
 
-- `TOP_BOTTOM` and `LEFT_RIGHT` default to one complete finished generation using the current source as a high-fidelity edit/reference input. Do not pre-split the job into photographic and design halves.
-- Top-bottom keeps the faithful source in approximately the upper 50% and performs this style transformation below; left-right uses the faithful source in approximately the left 50% and the transformation on the right. Unify both regions through colour, light, rhythm, typography, and meaning.
-- `DESIGN_ONLY` and `WALLPAPER_PACK` use the complete canvas while the source remains an invisible identity/content reference. Recompose every wallpaper separately for its device.
-- `FINAL CANVAS` means the ratio/pixels of the whole finished artwork and must be explicitly resolved before generation; never apply source dimensions silently. `DESIGN FRAME` is used only if a failed complete-canvas retry triggers deterministic composition fallback.
-- Retry a failed complete canvas once against the failed constraint only. Scripted composition is allowed only after that retry still fails, when pixel-identical source preservation is explicitly required, when the active route cannot realise the canvas, or for lossless pixel calibration.
+## Non-authoring boundary
 
-### Model priority and credentials
+- Do not summarize, translate, expand, polish, or “improve” the source brief.
+- Do not add a palette plan, material plan, composition theory, whitespace rule, title, microcopy package, or aesthetic motive.
+- Preserve the source brief's own colour behaviour exactly, whether it derives colour from the photograph or specifies a fixed family.
+- Let the image model execute the source brief's existing text logic. The outer Skill does not pre-write copy.
+- Current modes and sizes override only the legacy 3:4 top-bottom container, never the remaining aesthetic rules.
 
-- **Prefer GPT Image 2.** When GPT Image 2 is available through the current built-in image tool or a configured compatible route, use it first for the high-fidelity reference/edit and complete-canvas generation required by this prompt.
-- Also support Seedance 5.0 Pro, Nano Banana Pro (Gemini Image Pro), Nano Banana 2 (Gemini Image Flash), or another compatible bitmap model only when the actual route can preserve the source, realise the whole finished canvas, render the target-language text, and accept the multiple references needed by a linked wallpaper pack.
-- An alternative model changes only the generation route. It must not change this prompt's modes, canvas, source visibility, copy, locale, wallpaper relationship, or complete-canvas-first / composition-fallback-only logic. Do not silently downgrade a hard requirement.
-- If no suitable route is available, ask the user to enable an image-generation tool or provide an API key. User-provided credentials may be used for the current task, but never echo, display, log, or expose their value in chat, prompts, or diagnostics. Do not persist them or modify global route configuration unless explicitly requested.
-- Judge availability by actual image capability, not by a provider name or one missing environment variable.
+## Append-only runtime template
 
-Process only the one source photograph explicitly supplied for this task. Lock the principal subject or inseparable relation, contour, proportion, pose, direction, spatial distance, opening, overlap, narrative feature, and colour character. Preserve at least three source-specific cues. Never borrow stamp motifs, ink sets, annotations, placement, or texture from old outputs or another input.
+```text
+RUNTIME OVERRIDE — CURRENT DELIVERY ONLY
 
-## One small recognisable hand-carved stamp
+The original brief's initial 3:4 top-bottom arrangement is its legacy presentation container.
+For this output, override only: final canvas, source/design-region placement,
+source visibility, and device dimensions.
+Except for those container variables, every design-transformation, composition,
+colour, material, whitespace, text-character and typography instruction in the
+original brief remains authoritative.
 
-Delete irrelevant detail. Rebuild the source as one small or modest rubber-stamp motif using silhouette, two to four spot-colour regions, uneven carved lines, negative cuts, and only necessary overlap. The result must preserve the source's direction, spatial relation, and memory points at thumbnail size. Do not turn it into a souvenir badge, postage stamp, passport mark, round seal, sticker, logo, cartoon, or complete scene copy.
+Interpret “upper photo” as SOURCE REFERENCE.
+Interpret “lower half” as DESIGN REGION.
 
-Let source direction, proportion, and visual weight determine an off-centre, near-edge, or occasionally source-earned partial-crop placement. Protect a large active field of warm white, oat, cream, or another source-compatible light fibrous paper. One stamp remains primary; never scatter many equal stamps or fill the page.
+OUTPUT MODE: TOP_BOTTOM | LEFT_RIGHT | DESIGN_ONLY | WALLPAPER_PACK
+FINAL CANVAS: <ratio and/or exact WIDTHxHEIGHT>
+DEVICE PROFILE: NONE | PHONE | IPAD | DESKTOP | WATCH
+SOURCE VISIBILITY: UPPER HALF | LEFT HALF | REFERENCE ONLY — NOT VISIBLE
+DESIGN REGION: LOWER HALF | RIGHT HALF | FULL CANVAS
+PAIRED RELATION: FOLLOW THE ORIGINAL BRIEF'S PAIRED-PROPORTION RULE | NOT APPLICABLE
+WALLPAPER RELATIONSHIP: NONE | INDEPENDENT | LINKED
 
-## Spot inks and physical impression
+Colour follows the original brief's existing colour instructions exactly.
+Unless the user explicitly requests a colour change, do not add, replace,
+summarize, or re-plan any palette.
+```
 
-Select two to four of the photograph's most recognisable colours as deliberate spot inks. Give each ink a structural region, layer, or emphasis and create depth through separation, overlap, value, and slight registration shift. Never use a fixed travel palette or translate every source hue.
+Append exactly one text block after the runtime block. If the user has other explicit requirements, append those verbatim after the text block at the very end.
 
-Show uneven cut-line width, small gouge marks, broken ink, granular deposits, paper show-through, chipped edges, pressure variation, and slight colour misregistration. Wear follows the carved and printed structure while the decisive contour stays readable. Reject uniform digital distress, smooth vector perfection, dirty vintage overlays, blurred photocopy noise, thick 3D relief, and children's craft roughness.
+### Text generated from the original prompt
 
-## Field annotation
+```text
+TEXT MODE: ORIGINAL_PROMPT_GENERATED
+TEXT LANGUAGE: <user-confirmed language or locale>
 
-In automatic mode derive one concise title from a verified place, subject, state, action, or supported image, then add only two or three grounded keywords or one extremely short note. `No.` appears only when supplied, reliably established, or transparently assigned as the current batch sequence; never invent historical metadata, coordinates, dates, or provenance.
+The image model generates wording by following the original brief's existing
+text-generation logic. The outer Skill supplies no title, microcopy, copy
+package, or additional semantic framework.
+```
 
-Use small typewriter or archival microtype aligned with a stamp edge, baseline, local contour, or active whitespace. Text is a quiet record layer, not a commercial headline or tourism slogan. Preserve exact user wording verbatim and use natural native-script shaping, direction, punctuation, spacing, and line breaks. In text-free mode keep the same stamp, ink, impression, scale, and paper system but render no text or pseudo-text.
+### User-exact text
 
-## Mode and acceptance
+```text
+TEXT MODE: USER_EXACT
+TEXT LANGUAGE: <user-confirmed language or locale>
+TEXT: “<user's exact characters>”
 
+Use the supplied text verbatim. Do not rewrite, translate, spell-correct, or add
+any other wording. Typography and placement still follow the original brief.
+```
 
-Hard gate: at least three source cues; one small recognisable rubber-stamp motif; large warm fibrous-paper field; two to four source-derived spot inks with structural roles; uneven hand carving and believable broken impression; slight controlled misregistration; quiet grounded field annotation; exact user wording; no invented metadata; no souvenir, postage, passport, round seal, badge, sticker, cartoon, smooth vector, dirty filter, many-stamp collage, mockup, or pseudo-text.
+### No text
 
-If any hard condition fails, correct the generated asset. Never fake the artwork with programmatic drawing, SVG, HTML, Canvas, or a post-composited type overlay.
+```text
+TEXT MODE: NONE
+Render no letters, characters, numbers, titles, labels, logos, or pseudo-text anywhere.
+```
+
+See `SKILL.md` for preflight, multi-size, multi-mode, wallpaper, execution, and output rules. Every final generation request has this order:
+
+```text
+complete verbatim 034-source.md
++ current runtime override block
++ exactly one text-mode block
++ any other explicit user requirement, verbatim, at the very end
+```
