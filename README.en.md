@@ -16,16 +16,7 @@
 
 </div>
 
-> SMALL STAMP · 2–4 SPOT INKS · HAND-CARVED LINE · WARM PAPER · FIELD ANNOTATION
-
-XXD Panel 034 is an image-generation Skill for Codex and compatible agents. It removes irrelevant detail and rebuilds the photograph's defining subject, contour, pose, direction, spatial relation, and narrative as one small recognisable multicolour rubber stamp.
-
-Two to four source-derived spot inks, uneven carved lines, broken ink, paper show-through, chipped edges, pressure variation, slight misregistration, warm fibrous paper, generous whitespace, and small typewriter annotation make the result feel like a traveller's collected field record rather than a souvenir.
-
 ## Samples · From X
-
-> [Xiaoxiaodong (@xiaoxiaodong01)](https://x.com/xiaoxiaodong01/status/2090719303784104086) · 2026-08-21<br>
-> GPT2 x 断墨 x 印章 x 油墨 x 美学提示词 x VOL.034
 
 <table>
   <tr>
@@ -38,9 +29,18 @@ Two to four source-derived spot inks, uneven carved lines, broken ink, paper sho
   </tr>
 </table>
 
+> [Xiaoxiaodong (@xiaoxiaodong01)](https://x.com/xiaoxiaodong01/status/2090719303784104086) · 2026-08-21<br>
+> GPT2 x 断墨 x 印章 x 油墨 x 美学提示词 x VOL.034
+
 <p align="center"><a href="https://x.com/xiaoxiaodong01/status/2090719303784104086">View the original post and full prompt →</a></p>
 
 These samples demonstrate the 034 aesthetic motive. Their subjects, composition, palette, copy, and earlier canvas ratio never become generation references or current defaults.
+
+> SMALL STAMP · 2–4 SPOT INKS · HAND-CARVED LINE · WARM PAPER · FIELD ANNOTATION
+
+XXD Panel 034 is an image-generation Skill for Codex and compatible agents. It removes irrelevant detail and rebuilds the photograph's defining subject, contour, pose, direction, spatial relation, and narrative as one small recognisable multicolour rubber stamp.
+
+Two to four source-derived spot inks, uneven carved lines, broken ink, paper show-through, chipped edges, pressure variation, slight misregistration, warm fibrous paper, generous whitespace, and small typewriter annotation make the result feel like a traveller's collected field record rather than a souvenir.
 
 <!-- xxd-panel-benefit:start -->
 ## Quick fit check: is XXD Panel 034 right for you?
