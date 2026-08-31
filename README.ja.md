@@ -4,7 +4,7 @@
 
 <div align="center">
 
-# 🦁 XXD Panel 034
+# 🦁 XXD Panel 034｜旅のスタンプ印
 
 ### 写真を、小さな多色ゴム版印と静かなフィールドノートへ
 

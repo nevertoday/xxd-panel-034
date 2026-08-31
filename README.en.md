@@ -4,7 +4,7 @@
 
 <div align="center">
 
-# 🦁 XXD Panel 034
+# 🦁 XXD Panel 034｜Travel Stamp Marks
 
 ### Distil the photograph into one small multicolour rubber stamp and a quiet field note
 

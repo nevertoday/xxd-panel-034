@@ -4,7 +4,7 @@
 
 <div align="center">
 
-# 🦁 XXD Panel 034
+# 🦁 XXD Panel 034｜旅行章印
 
 ### 把照片提炼成一枚小尺度多色橡皮章与安静田野注释
 

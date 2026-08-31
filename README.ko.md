@@ -4,7 +4,7 @@
 
 <div align="center">
 
-# 🦁 XXD Panel 034
+# 🦁 XXD Panel 034｜여행 스탬프 마크
 
 ### 사진을 작은 다색 고무도장과 조용한 현장 기록으로
 
