@@ -1,6 +1,6 @@
 ---
 name: xxd-panel-034
-description: "Create XXD Panel 034 raster artwork from one image or a directory batch while treating the bundled original style brief as the sole aesthetic authority. Supports one or more top-bottom, left-right, design-only, and four-device wallpaper outputs; multiple ratios or exact sizes; prompt-generated, user-exact, or text-free typography; and inline parameters. Use when the user invokes xxd-panel-034 or requests the exact Panel 034 style."
+description: "XXD Panel 034｜Travel Stamp Marks: distils the photo's subject into one small hand-carved multicolour rubber stamp in 2–4 spot-ink colours taken from the photo — silhouette, colour blocks and carved lines with uneven strokes, broken ink, paper showing through and slight misregistration — placed off-centre on warm, lightly fibred paper with wide whitespace. A short title, a No. number and two or three keywords in small typewriter type sit like a field note aligned to the stamp's edge. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-034 or asks for a rubber stamp, block-print stamp mark or travel field-note look from a photo."
 ---
 
 # XXD Panel 034

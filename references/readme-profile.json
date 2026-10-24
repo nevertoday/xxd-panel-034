@@ -1,0 +1,84 @@
+{
+  "skill_description": "XXD Panel 034｜Travel Stamp Marks: distils the photo's subject into one small hand-carved multicolour rubber stamp in 2–4 spot-ink colours taken from the photo — silhouette, colour blocks and carved lines with uneven strokes, broken ink, paper showing through and slight misregistration — placed off-centre on warm, lightly fibred paper with wide whitespace. A short title, a No. number and two or three keywords in small typewriter type sit like a field note aligned to the stamp's edge. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-034 or asks for a rubber stamp, block-print stamp mark or travel field-note look from a photo.",
+  "short_description": "旅行章印：把照片提炼成一枚小尺度多色橡皮章，配一段安静的田野注释",
+  "zh-CN": {
+    "name": "旅行章印",
+    "tagline": "把照片提炼成一枚小小的多色橡皮章，配上一段安静的田野注释。",
+    "look": "照片主体被删去细节，只留下最能认出它的结构和走势，用剪影、色块和刻线刻成一枚小章，用 2 到 4 种从照片里取的专色套印。章面有粗细不均的刻线、断墨、纸色透底、边缘缺口和轻微套色错位，盖在带细纤维的暖色浅纸上，周围大片留白，位置可以偏心、贴边或局部裁切。旁边是一段小号打字机字体的注释：一个短标题、No. 编号和两三个关键词。",
+    "traits": ["2–4 专色", "手刻线", "暖纸", "章印", "安静注释"],
+    "good": [
+      "旅途中轮廓清楚的单个对象：一座塔、一扇门、一只海鸥、一棵树",
+      "有明确地点感的场景：山口、小站、渡船、老街一角",
+      "想做成旅行手帐、明信片或一组收藏卡片的照片"
+    ],
+    "poor": [
+      "细节密集、要靠细节才认得出的图：机械、复杂建筑立面、满是招牌的街道",
+      "人很多的合影或需要认出具体长相的人像",
+      "想要圆形印章、邮票模板、贴纸拼贴或卡通纪念品的效果"
+    ]
+  },
+  "en": {
+    "name": "Travel Stamp Marks",
+    "tagline": "Distils a photo into one small multicolour rubber stamp with a quiet field note beside it.",
+    "look": "The subject loses its extra detail and keeps only the structure and direction that make it recognisable, carved as a small stamp of silhouette, colour blocks and cut lines, printed in two to four spot colours taken from the photo. The impression shows uneven carved lines, broken ink, paper showing through, chipped edges and slight misregistration, stamped on warm pale paper with fine fibres and surrounded by wide whitespace; it can sit off-centre, touch the edge or be partly cropped. Beside it is a field note in small typewriter type: a short title, a No. number and two or three keywords.",
+    "traits": ["2–4 spot inks", "Hand-carved lines", "Warm paper", "Stamp print", "Quiet notes"],
+    "good": [
+      "Single travel subjects with a clear outline: a tower, a doorway, a seagull, a tree",
+      "Scenes with a strong sense of place: a mountain pass, a small station, a ferry, a corner of an old street",
+      "Photos for a travel journal, a postcard or a set of collectable cards"
+    ],
+    "poor": [
+      "Images recognisable only by dense detail: machinery, complex façades, streets full of shop signs",
+      "Crowded group photos or portraits where a specific face must be recognised",
+      "Requests for round seals, postage-stamp templates, sticker collages or cartoon souvenirs"
+    ]
+  },
+  "ja": {
+    "name": "旅のスタンプ印",
+    "tagline": "写真を小さな多色ゴム版スタンプにまとめ、静かなフィールドノートを添えます。",
+    "look": "主役から細部を削り、見分けるのに必要な構造と流れだけを残して、シルエット、色面、彫り線で小さなスタンプに彫ります。色は写真から取った二〜四色の特色で重ね刷りします。印面には太さの揃わない彫り線、かすれ、紙の透け、欠けた縁、わずかな版ずれが残り、細い繊維の見える温かい淡色の紙に押されて、周囲は大きく余白をとります。位置は中心を外したり、端に寄せたり、一部を切ったりできます。横には小さなタイプライター書体のメモ、短いタイトル、No. 番号、二、三のキーワードが並びます。",
+    "traits": ["二〜四色の特色", "手彫りの線", "温かい紙", "スタンプ", "静かな注釈"],
+    "good": [
+      "輪郭のはっきりした旅先の単体：塔、扉、カモメ、一本の木",
+      "場所の気配が強い場面：峠、小さな駅、渡し船、古い通りの一角",
+      "旅の手帳、ポストカード、コレクションカードのセットにしたい写真"
+    ],
+    "poor": [
+      "細部が密で、細部がないと何かわからない画像：機械、複雑な建物の正面、看板だらけの通り",
+      "大人数の集合写真や、特定の顔を見分ける必要がある人物写真",
+      "丸い印鑑、切手テンプレート、ステッカーのコラージュ、キャラクター風のお土産を求める場合"
+    ]
+  },
+  "ko": {
+    "name": "여행 스탬프 마크",
+    "tagline": "사진을 작은 다색 고무도장 하나로 줄이고, 조용한 현장 기록을 곁들입니다.",
+    "look": "주인공에서 세부를 덜어내고 알아보는 데 필요한 구조와 흐름만 남겨 실루엣, 색면, 새김선으로 작은 도장을 새깁니다. 색은 사진에서 가져온 두세 가지에서 네 가지까지의 별색으로 겹쳐 찍습니다. 도장 자국에는 굵기가 고르지 않은 새김선, 끊긴 잉크, 비치는 종이, 이 빠진 가장자리, 살짝 어긋난 색판이 남고, 가는 섬유가 보이는 따뜻한 연한 종이 위에 찍혀 주변에 넓은 여백을 둡니다. 위치는 한쪽으로 치우치거나 가장자리에 붙거나 일부가 잘릴 수 있습니다. 옆에는 작은 타자기 글꼴로 짧은 제목, No. 번호, 두세 개의 키워드가 적힌 메모가 놓입니다.",
+    "traits": ["2–4가지 별색", "손으로 새긴 선", "따뜻한 종이", "도장 자국", "조용한 메모"],
+    "good": [
+      "윤곽이 분명한 여행지의 단일 대상: 탑, 문, 갈매기, 나무 한 그루",
+      "장소감이 뚜렷한 장면: 고갯길, 작은 역, 나룻배, 옛 골목 한쪽",
+      "여행 다이어리, 엽서, 수집 카드 세트로 만들고 싶은 사진"
+    ],
+    "poor": [
+      "세부가 빽빽해 세부로만 알아볼 수 있는 이미지: 기계, 복잡한 건물 정면, 간판이 가득한 거리",
+      "사람이 많은 단체 사진이나 특정 얼굴을 알아봐야 하는 인물 사진",
+      "둥근 인장, 우표 템플릿, 스티커 콜라주, 캐릭터 기념품 느낌을 원하는 경우"
+    ]
+  },
+  "ar": {
+    "name": "أختام السفر",
+    "tagline": "يختزل الصورة إلى ختم مطاطي صغير متعدد الألوان ترافقه ملاحظة ميدانية هادئة.",
+    "look": "تُحذف التفاصيل الزائدة من الموضوع ولا يبقى إلا البنية والاتجاه اللذان يجعلانه معروفاً، فيُحفر ختماً صغيراً من ظل وكتل لونية وخطوط محفورة، ويُطبع بلونين إلى أربعة ألوان خاصة مأخوذة من الصورة. تظهر في الأثر خطوط محفورة متفاوتة السماكة وحبر متقطع وورق يشف من تحته وحواف مثلومة وانزياح خفيف بين الألوان، مختوماً على ورق فاتح دافئ بألياف دقيقة وحوله فراغ واسع، وقد يكون بعيداً عن المركز أو ملاصقاً للحافة أو مقصوصاً جزئياً. وبجانبه ملاحظة بخط آلة كاتبة صغير: عنوان قصير ورقم No. وكلمتان أو ثلاث.",
+    "traits": ["2–4 أحبار خاصة", "خطوط محفورة يدوياً", "ورق دافئ", "أثر الختم", "ملاحظات هادئة"],
+    "good": [
+      "عنصر سفر منفرد بحدود واضحة: برج، باب، نورس، شجرة",
+      "مشاهد لها حس مكان قوي: ممر جبلي، محطة صغيرة، عبّارة، زاوية شارع قديم",
+      "صور لدفتر رحلات أو بطاقة بريدية أو مجموعة بطاقات للاقتناء"
+    ],
+    "poor": [
+      "صور لا تُعرف إلا بتفاصيلها الكثيفة: الآلات، الواجهات المعقدة، الشوارع المليئة باللافتات",
+      "صور جماعية مزدحمة أو صور شخصية يجب فيها تمييز وجه بعينه",
+      "طلب أختام دائرية أو قوالب طوابع بريدية أو كولاج ملصقات أو تذكارات كرتونية"
+    ]
+  }
+}
